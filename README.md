@@ -1,5 +1,7 @@
 # docker-node-chrome
 
-docker build -t anulals/angular:2.6 .
+https://hub.docker.com/r/anulals/angular
 
-docker push anulals/angular:latest
+<!-- docker build -t anulals/angular:2.6 .
+
+docker push anulals/angular:latest -->
